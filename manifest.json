@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "Doodle",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "Doodle",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "Doodle",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -53,4 +53,4 @@
       "description": ""
     }
   ]
-}
+}0
