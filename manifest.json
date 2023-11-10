@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Doodle",
+  "description": "Doodle Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Doodle",
+  "name": "Doodle Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Doodle",
+  "short_name": "Doodle Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "Doodle Pro",
       "url": "",
       "description": ""
     }
