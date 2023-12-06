@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Doodle Pro",
+  "description": "Doodle:Pro Paint",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Doodle Pro",
+  "name": "Doodle:Pro Paint",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Doodle Pro",
+  "short_name": "Doodle:Pro Paint",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Doodle Pro",
+      "name": "Doodle:Pro Paint",
       "url": "",
       "description": ""
     }
