@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Doodle:Pro Paint",
+  "description": "Pro Paint APP",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Doodle:Pro Paint",
+  "name": "Pro Paint APP",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Doodle:Pro Paint",
+  "short_name": "Pro Paint APP",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Doodle:Pro Paint",
+      "name": "Pro Paint APP",
       "url": "",
       "description": ""
     }
